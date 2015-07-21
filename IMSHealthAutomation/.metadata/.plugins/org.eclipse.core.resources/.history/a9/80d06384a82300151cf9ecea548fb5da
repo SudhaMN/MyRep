@@ -1,0 +1,59 @@
+2015-05-12 16:05:44,762 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-12 16:05:44,767 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-12 16:05:44,769 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-12 16:05:44,769 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-05-12 16:05:44,884 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-12 16:05:44,887 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-12 16:05:44,887 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-12 16:05:44,887 - rootLogger - INFO - LoginCaseOne : Execution started.
+2015-05-12 16:05:55,357 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-05-13 15:51:33,836 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-13 15:51:33,852 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-13 15:51:33,852 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-13 15:51:33,852 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-05-13 15:51:33,915 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-13 15:51:33,915 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-13 15:51:33,915 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-13 15:51:33,915 - rootLogger - INFO - LoginCaseOne : Execution started.
+2015-05-13 15:51:40,117 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-05-13 15:51:56,388 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-05-13 15:51:56,529 - rootLogger - INFO - LoginCaseOne : DataToRun = N for data set line 2 So skipping Its execution.
+2015-05-13 15:51:56,545 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 2 as SKIP In excel.
+2015-05-13 15:51:56,638 - rootLogger - INFO - LoginCaseOne : Reporting test case as PASS In excel.
+2015-05-13 15:51:56,701 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-13 15:51:56,701 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-13 15:51:56,701 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-13 15:52:02,120 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-05-13 15:52:20,950 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-05-13 15:52:31,851 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-13 15:52:31,851 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-13 15:52:31,851 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-13 15:52:31,866 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-05-13 15:52:31,882 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-05-13 15:52:31,882 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-05-13 15:52:38,155 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-06-15 14:40:51,689 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 14:40:51,699 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 14:40:51,699 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-06-15 14:40:51,699 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-06-15 14:40:51,759 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 14:40:51,759 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 14:40:51,759 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-06-15 14:40:51,879 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 14:40:51,879 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 14:40:51,879 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-06-15 14:40:51,879 - rootLogger - INFO - LoginCaseOne : Execution started.
+2015-06-15 14:40:59,776 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-06-15 14:41:09,608 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-06-15 14:41:09,759 - rootLogger - INFO - LoginCaseOne : DataToRun = N for data set line 2 So skipping Its execution.
+2015-06-15 14:41:09,769 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 2 as SKIP In excel.
+2015-06-15 14:41:09,879 - rootLogger - INFO - LoginCaseOne : Reporting test case as PASS In excel.
+2015-06-15 14:41:09,949 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 14:41:09,959 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 14:41:09,959 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-06-15 14:41:17,335 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-06-15 14:41:33,751 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-06-15 14:41:44,513 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-06-15 14:41:44,523 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-06-15 14:41:44,524 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-06-15 14:41:51,912 - rootLogger - INFO - Firefox Driver Instance loaded successfully.

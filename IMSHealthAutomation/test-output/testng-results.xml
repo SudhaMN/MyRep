@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="1" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="203" started-at="2015-07-09T10:47:38Z" finished-at="2015-07-09T10:47:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="203" started-at="2015-07-09T10:47:38Z" finished-at="2015-07-09T10:47:38Z">
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <test-method status="PASS" signature="checkSuiteToRun()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="checkSuiteToRun" is-config="true" duration-ms="515" started-at="2015-07-09T16:17:37Z" finished-at="2015-07-09T16:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteToRun -->
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="checkCaseToRun" is-config="true" duration-ms="47" started-at="2015-07-09T16:17:38Z" finished-at="2015-07-09T16:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="FAIL" signature="LoginCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="LoginCaseOneTest" duration-ms="94" started-at="2015-07-09T16:17:38Z" data-provider="LoginCaseOneData" finished-at="2015-07-09T16:17:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishUser@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssw0rd2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: VISTA
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'BLRW3005035', ip: '10.205.35.92', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: driver.version: FirefoxDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: VISTA
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'BLRW3005035', ip: '10.205.35.92', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.Executable.<init>(Executable.java:72)
+	at org.openqa.selenium.firefox.FirefoxBinary.<init>(FirefoxBinary.java:59)
+	at org.openqa.selenium.firefox.FirefoxBinary.<init>(FirefoxBinary.java:55)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:95)
+	at com.np.TestCases.TestSuiteBase.SuiteBase.loadWebBrowser(SuiteBase.java:95)
+	at com.np.TestCases.LoginSuite.LoginCaseOne.LoginCaseOneTest(LoginCaseOne.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseOneTest -->
+        <test-method status="FAIL" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2015-07-09T16:17:38Z" finished-at="2015-07-09T16:17:38Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.np.TestCases.TestSuiteBase.SuiteBase.closeWebBrowser(SuiteBase.java:131)
+	at com.np.TestCases.LoginSuite.LoginCaseOne.reporterDataResults(LoginCaseOne.java:137)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2015-07-09T16:17:38Z" finished-at="2015-07-09T16:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="LoginCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="LoginCaseOneTest" duration-ms="0" started-at="2015-07-09T16:17:38Z" data-provider="LoginCaseOneData" finished-at="2015-07-09T16:17:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishAPI@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssw0rd2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseOneTest -->
+        <test-method status="SKIP" signature="closeBrowser()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@73035e27]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2015-07-09T16:17:38Z" finished-at="2015-07-09T16:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

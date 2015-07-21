@@ -1,0 +1,25 @@
+2015-04-15 12:49:48,382 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-04-15 12:49:48,382 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-04-15 12:49:48,382 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-04-15 12:49:48,382 - rootLogger - INFO - Execution started for SuiteOneBase.
+2015-04-15 12:49:48,453 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-04-15 12:49:48,463 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-04-15 12:49:48,463 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-04-15 12:49:48,463 - rootLogger - INFO - LoginCaseOne : Execution started.
+2015-04-15 12:49:54,984 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-04-15 12:50:09,763 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 1 as PASS In excel.
+2015-04-15 12:50:09,914 - rootLogger - INFO - LoginCaseOne : DataToRun = N for data set line 2 So skipping Its execution.
+2015-04-15 12:50:09,924 - rootLogger - INFO - LoginCaseOne : Reporting test data set line 2 as SKIP In excel.
+2015-04-15 12:50:10,024 - rootLogger - INFO - LoginCaseOne : Reporting test case as PASS In excel.
+2015-04-15 12:50:10,094 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-04-15 12:50:10,094 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-04-15 12:50:10,104 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-04-15 12:50:17,728 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-04-15 12:50:36,745 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2015-04-15 12:50:51,267 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-04-15 12:50:51,267 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-04-15 12:50:51,277 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-04-15 12:50:51,307 - rootLogger - INFO - All Excel Files Initialised successfully.
+2015-04-15 12:50:51,307 - rootLogger - INFO - Param.properties file loaded successfully.
+2015-04-15 12:50:51,307 - rootLogger - INFO - Objects.properties file loaded successfully.
+2015-04-15 12:50:59,020 - rootLogger - INFO - Firefox Driver Instance loaded successfully.

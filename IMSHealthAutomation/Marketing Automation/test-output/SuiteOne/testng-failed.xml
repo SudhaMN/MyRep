@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteOne]">
+  <listeners>
+    <listener class-name="com.np.utility.ScreenshotUtility"/>
+  </listeners>
+  <test name="LoginCaseOne(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="checkSuiteToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="LoginCaseOneTest"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- LoginCaseOne(failed) -->
+  <test name="LoginCaseTwo(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="LoginCaseTwoTest"/>
+          <include name="checkSuiteToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+    </classes>
+  </test> <!-- LoginCaseTwo(failed) -->
+</suite> <!-- Failed suite [SuiteOne] -->

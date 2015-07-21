@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LoginSuite]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="LoginCaseOne(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="LoginCaseOneTest" invocation-numbers="0"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- LoginCaseOne(failed) -->
+  <test name="LoginCaseTwo(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="LoginCaseTwoTest" invocation-numbers="0"/>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- LoginCaseTwo(failed) -->
+</suite> <!-- Failed suite [LoginSuite] -->

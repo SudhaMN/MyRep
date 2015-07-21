@@ -1,0 +1,233 @@
+!SESSION 2015-07-06 11:45:53.379 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:46:48.110
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:46:48.126
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bnanjegowda'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-07-06 11:53:10.358 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:53:31.218
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:53:31.250
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bnanjegowda'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-07-06 11:55:51.509 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:56:32.565
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 11:56:32.581
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bnanjegowda'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-07-06 14:57:37.345 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-07-06 14:58:04.559
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 14:58:15.791
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-06 14:58:15.801
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bnanjegowda'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:01:10.285
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] LoginCaseOne.java [in com.np.TestCases.LoginSuite [in src [in Marketing Automation]]]
+  package com.np.TestCases.LoginSuite
+  import java.io.IOException
+  import org.testng.SkipException
+  import org.testng.annotations.AfterMethod
+  import org.testng.annotations.AfterTest
+  import org.testng.annotations.BeforeTest
+  import org.testng.annotations.DataProvider
+  import org.testng.annotations.Test
+  import org.testng.asserts.SoftAssert
+  import com.np.utility.Read_XLS
+  import com.np.utility.SuiteUtility
+  class LoginCaseOne
+    Read_XLS FilePath
+    String SheetName
+    String TestCaseName
+    String ToRunColumnNameTestCase
+    String ToRunColumnNameTestData
+    String[] TestDataToRun
+    boolean TestCasePass
+    int DataSet
+    boolean Testskip
+    boolean Testfail
+    SoftAssert s_assert
+    void checkCaseToRun()
+    void LoginCaseOneTest(String, String, String)
+    void reporterDataResults()
+    Object[][] LoginCaseOneData()
+    void closeBrowser()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:01:10.675
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\POC\IMSHealthAutomation\Marketing Automation\bin C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53670 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse--311875555\testng-customsuite.xml
+java -ea -classpath /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\POC\IMSHealthAutomation\Marketing Automation\bin:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53670 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse--311875555\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:05:38.452
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] LoginCaseOne.java [in com.np.TestCases.LoginSuite [in src [in Marketing Automation]]]
+  package com.np.TestCases.LoginSuite
+  import java.io.IOException
+  import org.testng.SkipException
+  import org.testng.annotations.AfterMethod
+  import org.testng.annotations.AfterTest
+  import org.testng.annotations.BeforeTest
+  import org.testng.annotations.DataProvider
+  import org.testng.annotations.Test
+  import org.testng.asserts.SoftAssert
+  import com.np.utility.Read_XLS
+  import com.np.utility.SuiteUtility
+  class LoginCaseOne
+    Read_XLS FilePath
+    String SheetName
+    String TestCaseName
+    String ToRunColumnNameTestCase
+    String ToRunColumnNameTestData
+    String[] TestDataToRun
+    boolean TestCasePass
+    int DataSet
+    boolean Testskip
+    boolean Testfail
+    SoftAssert s_assert
+    void checkCaseToRun()
+    void LoginCaseOneTest(String, String, String)
+    void reporterDataResults()
+    Object[][] LoginCaseOneData()
+    void closeBrowser()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:05:38.562
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\POC\IMSHealthAutomation\Marketing Automation\bin C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53676 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse-2109347629\testng-customsuite.xml
+java -ea -classpath /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\POC\IMSHealthAutomation\Marketing Automation\bin:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53676 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse-2109347629\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:59:03.605
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] LoginCaseOne.java [in com.np.TestCases.LoginSuite [in src [in Marketing Automation]]]
+  package com.np.TestCases.LoginSuite
+  import java.io.IOException
+  import org.testng.SkipException
+  import org.testng.annotations.AfterMethod
+  import org.testng.annotations.AfterTest
+  import org.testng.annotations.BeforeTest
+  import org.testng.annotations.DataProvider
+  import org.testng.annotations.Test
+  import org.testng.asserts.SoftAssert
+  import com.np.utility.Read_XLS
+  import com.np.utility.SuiteUtility
+  class LoginCaseOne
+    Read_XLS FilePath
+    String SheetName
+    String TestCaseName
+    String ToRunColumnNameTestCase
+    String ToRunColumnNameTestData
+    String[] TestDataToRun
+    boolean TestCasePass
+    int DataSet
+    boolean Testskip
+    boolean Testfail
+    SoftAssert s_assert
+    void checkCaseToRun()
+    void LoginCaseOneTest(String, String, String)
+    void reporterDataResults()
+    Object[][] LoginCaseOneData()
+    void closeBrowser()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-06 15:59:03.730
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar C:\POC\IMSHealthAutomation\Marketing Automation\bin C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53960 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse--1673349268\testng-customsuite.xml
+java -ea -classpath /C:/SELENIUM/Eclipse/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:C:\POC\IMSHealthAutomation\Marketing Automation\bin:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUReporter_Selenium_testNG_5.1.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\ATUTestRecorder_2.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\dom4j-1.6.1.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\itextpdf-5.3.5.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jcommon-xml-1.0.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\jfreechart-1.0.14.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\log4j-1.2.17.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\poi-ooxml-schemas-3.11-20141221.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\saxon-8.7.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\SaxonLiaison.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-6.8.6beta.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\testng-xslt-maven-plugin-test-0.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\xmlbeans-2.6.0.jar:C:\POC\IMSHealthAutomation\Marketing Automation\JarFiles\selenium-server-standalone-2.45.0.jar org.testng.remote.RemoteTestNG -serport 53960 -d C:\POC\IMSHealthAutomation\Marketing Automation\test-output C:\Users\BNANJE~1\AppData\Local\Temp\testng-eclipse--1673349268\testng-customsuite.xml
+!SESSION 2015-07-09 12:33:48.041 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-07-09 12:33:53.127
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-09 12:34:02.533
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-09 12:34:02.548
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bnanjegowda'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

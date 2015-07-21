@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SalesRepSuite">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="CreateNewSalesRep">
+    <classes>
+        <class name="com.np.TestCases.SalesRepSuite.CreateNewSalesRep" ></class>  
+    </classes>
+</test>
+
+</suite>

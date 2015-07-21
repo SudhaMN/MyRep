@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="JarFiles/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/itextpdf-5.3.5.jar"/>
+	<classpathentry kind="lib" path="JarFiles/jcommon-xml-1.0.17.jar"/>
+	<classpathentry kind="lib" path="JarFiles/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="JarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="JarFiles/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="JarFiles/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="JarFiles/testng-6.8.6beta.jar"/>
+	<classpathentry kind="lib" path="JarFiles/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

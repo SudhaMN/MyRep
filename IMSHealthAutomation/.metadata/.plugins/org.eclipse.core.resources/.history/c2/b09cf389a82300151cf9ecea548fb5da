@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="2" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Nexxus Suite" duration-ms="85523" started-at="2015-06-15T09:10:51Z" finished-at="2015-06-15T09:12:17Z">
+    <groups>
+    </groups>
+    <test name="LoginCaseOne" duration-ms="18030" started-at="2015-06-15T09:10:51Z" finished-at="2015-06-15T09:11:09Z">
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="checkCaseToRun" is-config="true" duration-ms="10" started-at="2015-06-15T14:40:51Z" finished-at="2015-06-15T14:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="LoginCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="LoginCaseOneTest" duration-ms="17709" started-at="2015-06-15T14:40:51Z" data-provider="LoginCaseOneData" finished-at="2015-06-15T14:41:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishUser@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssw0rd2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="reporterDataResults" is-config="true" duration-ms="71" started-at="2015-06-15T14:41:09Z" finished-at="2015-06-15T14:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="LoginCaseOneTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="LoginCaseOneTest" duration-ms="80" started-at="2015-06-15T14:41:09Z" data-provider="LoginCaseOneData" finished-at="2015-06-15T14:41:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishAPI@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssw0rd2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[DataToRun for row number 1 Is No Or Blank. So Skipping Its Execution.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: DataToRun for row number 1 Is No Or Blank. So Skipping Its Execution.
+	at com.np.TestCases.LoginSuite.LoginCaseOne.LoginCaseOneTest(LoginCaseOne.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseOneTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="reporterDataResults" is-config="true" duration-ms="40" started-at="2015-06-15T14:41:09Z" finished-at="2015-06-15T14:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseOne@4ea7a296]" name="closeBrowser" is-config="true" duration-ms="80" started-at="2015-06-15T14:41:09Z" finished-at="2015-06-15T14:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </test> <!-- LoginCaseOne -->
+    <test name="LoginCaseTwo" duration-ms="34543" started-at="2015-06-15T09:11:09Z" finished-at="2015-06-15T09:11:44Z">
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="checkCaseToRun" is-config="true" duration-ms="20" started-at="2015-06-15T14:41:09Z" finished-at="2015-06-15T14:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="PASS" signature="LoginCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="LoginCaseTwoTest" duration-ms="16170" started-at="2015-06-15T14:41:09Z" data-provider="LoginCaseTwoData" finished-at="2015-06-15T14:41:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishUser@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid email or password.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="reporterDataResults" is-config="true" duration-ms="70" started-at="2015-06-15T14:41:26Z" finished-at="2015-06-15T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="LoginCaseTwoTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="LoginCaseTwoTest" duration-ms="18121" started-at="2015-06-15T14:41:26Z" data-provider="LoginCaseTwoData" finished-at="2015-06-15T14:41:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EnglishUser@appature.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfgdf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid email or password1.]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+ActualResult Value Invalid email or password. And ExpectedResult Value Invalid email or password1. Not Match]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+ActualResult Value Invalid email or password. And ExpectedResult Value Invalid email or password1. Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at com.np.TestCases.LoginSuite.LoginCaseTwo.LoginCaseTwoTest(LoginCaseTwo.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCaseTwoTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="reporterDataResults" is-config="true" duration-ms="72" started-at="2015-06-15T14:41:44Z" finished-at="2015-06-15T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="closeBrowser" is-config="true" duration-ms="80" started-at="2015-06-15T14:41:44Z" finished-at="2015-06-15T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+    </test> <!-- LoginCaseTwo -->
+    <test name="CreateNewSalesRep" duration-ms="32880" started-at="2015-06-15T09:11:44Z" finished-at="2015-06-15T09:12:17Z">
+      <class name="com.np.TestCases.SalesRepSuite.CreateNewSalesRep">
+        <test-method status="PASS" signature="checkCaseToRun()[pri:0, instance:com.np.TestCases.SalesRepSuite.CreateNewSalesRep@3abdf256]" name="checkCaseToRun" is-config="true" duration-ms="13" started-at="2015-06-15T14:41:44Z" finished-at="2015-06-15T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCaseToRun -->
+        <test-method status="FAIL" signature="CreateNewSalesRepTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.np.TestCases.SalesRepSuite.CreateNewSalesRep@3abdf256]" name="CreateNewSalesRepTest" duration-ms="32774" started-at="2015-06-15T14:41:44Z" data-provider="CreateNewSalesRepData" finished-at="2015-06-15T14:42:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testid1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[first1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[last1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pos]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cty]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[st]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[987798]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[666]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[asdfas@imshealth.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[success]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: {"method":"xpath","selector":"//div[@class='hbt'][contains(.,'Customers')]"}
+Command duration or timeout: 15.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'BLRW3003911', ip: '10.205.35.56', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_17'
+*** Element info: {Using=xpath, value=//div[@class='hbt'][contains(.,'Customers')]}
+Session ID: 6b19ae7c-5ad4-4f76-a8c4-259dc938c36b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.1}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='hbt'][contains(.,'Customers')]"}
+Command duration or timeout: 15.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'BLRW3003911', ip: '10.205.35.56', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_17'
+*** Element info: {Using=xpath, value=//div[@class='hbt'][contains(.,'Customers')]}
+Session ID: 6b19ae7c-5ad4-4f76-a8c4-259dc938c36b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=37.0.1}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.np.TestCases.SalesRepSuite.CreateNewSalesRep.CreateNewSalesRepTest(CreateNewSalesRep.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='hbt'][contains(.,'Customers')]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'BLRW3003911', ip: '10.205.35.56', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_17'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/spoojary/AppData/Local/Temp/anonymous7174115822765402973webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10271)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/spoojary/AppData/Local/Temp/anonymous7174115822765402973webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:603)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewSalesRepTest -->
+        <test-method status="PASS" signature="reporterDataResults()[pri:0, instance:com.np.TestCases.SalesRepSuite.CreateNewSalesRep@3abdf256]" name="reporterDataResults" is-config="true" duration-ms="20" started-at="2015-06-15T14:42:17Z" finished-at="2015-06-15T14:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.np.TestCases.SalesRepSuite.CreateNewSalesRep@3abdf256]" name="closeBrowser" is-config="true" duration-ms="42" started-at="2015-06-15T14:42:17Z" finished-at="2015-06-15T14:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.np.TestCases.SalesRepSuite.CreateNewSalesRep -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <test-method status="PASS" signature="checkSuiteToRun()[pri:0, instance:com.np.TestCases.LoginSuite.LoginCaseTwo@358f17ce]" name="checkSuiteToRun" is-config="true" duration-ms="408" started-at="2015-06-15T14:40:51Z" finished-at="2015-06-15T14:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteToRun -->
+        <test-method status="PASS" signature="checkSuiteToRun()[pri:0, instance:com.np.TestCases.SalesRepSuite.CreateNewSalesRep@3abdf256]" name="checkSuiteToRun" is-config="true" duration-ms="130" started-at="2015-06-15T14:40:51Z" finished-at="2015-06-15T14:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteToRun -->
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+    </test> <!-- CreateNewSalesRep -->
+  </suite> <!-- Nexxus Suite -->
+</testng-results>

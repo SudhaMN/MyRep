@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LoginSuite">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="LoginCaseOne">
+    <classes>
+        <class name="com.np.TestCases.LoginSuite.LoginCaseOne" ></class>  
+    </classes>
+</test>
+
+<test name="LoginCaseTwo">
+    <classes>
+        <class name="com.np.TestCases.LoginSuite.LoginCaseTwo" ></class>  
+    </classes>
+</test>
+
+</suite>

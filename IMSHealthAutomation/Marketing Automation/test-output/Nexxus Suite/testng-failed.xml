@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Nexxus Suite]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="LoginCaseOne(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkSuiteToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.SalesRepSuite.CreateNewSalesRep">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.SalesRepSuite.CreateNewSalesRep -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="LoginCaseOneTest" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- LoginCaseOne(failed) -->
+  <test name="LoginCaseTwo(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="LoginCaseTwoTest" invocation-numbers="1"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkSuiteToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.SalesRepSuite.CreateNewSalesRep">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.SalesRepSuite.CreateNewSalesRep -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- LoginCaseTwo(failed) -->
+  <test name="CreateNewSalesRep(failed)">
+    <classes>
+      <class name="com.np.TestCases.LoginSuite.LoginCaseTwo">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkSuiteToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseTwo -->
+      <class name="com.np.TestCases.SalesRepSuite.CreateNewSalesRep">
+        <methods>
+          <include name="CreateNewSalesRepTest" invocation-numbers="0"/>
+          <include name="checkSuiteToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- com.np.TestCases.SalesRepSuite.CreateNewSalesRep -->
+      <class name="com.np.TestCases.LoginSuite.LoginCaseOne">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.np.TestCases.LoginSuite.LoginCaseOne -->
+    </classes>
+  </test> <!-- CreateNewSalesRep(failed) -->
+</suite> <!-- Failed suite [Nexxus Suite] -->
